@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-activemq-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-activemq-producer" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-activiti" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-cache-ehcache" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-cache-redis" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-crawler" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-devtools" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-easyui-kindeditor" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-email" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-hello" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-hibernate5" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-jpa" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-jpa-querydsl" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-quartz" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-samples" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-shiro-redis" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sitemesh" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-springfox" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-websocket" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-websocket-client" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-websocket-netty-server" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-welcome-page" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-crawler/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-activemq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sitemesh/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-easyui-kindeditor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpa-querydsl/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-activemq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-email/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-devtools/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hibernate5/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-springfox/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-welcome-page/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-websocket-netty-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-websocket-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-websocket/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
